@@ -1,5 +1,5 @@
 # teste-markdown
-``shell
+```shell
 whoami
 echo "teste"
 ```
