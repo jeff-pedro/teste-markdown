@@ -1,5 +1,5 @@
 # teste-markdown
-```console
-foo@bar:~$ whoami
-foo
+``shell
+whoami
+echo "teste"
 ```
